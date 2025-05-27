@@ -57,6 +57,10 @@ acme_rockets/
 
 ![Acme Rockets Screenshot](./space_img/website.png)
 
+## 🔗 Links
+
+The site is live and available at [here](https://adhik-6.github.io/acme_rockets/)
+
 ## 📚 Resources
 
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
